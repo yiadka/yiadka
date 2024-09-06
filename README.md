@@ -14,7 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=yiadka)
+<div align="right">
+  ![](https://komarev.com/ghpvc/?username=yiadka)
+</div>
+
+- I'm a programmer.
+
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,ruby,python,fastapi,go,docker,terraform" />
+<br>
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yiadka&theme=gruvbox)
