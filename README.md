@@ -15,3 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=yiadka)
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yiadka&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yiadka&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yiadka&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yiadka&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yiadka&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=yiadka&theme=gruvbox)
