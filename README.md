@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome!
 
 <!--
 **yiadka/yiadka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="right">
-  ![](https://komarev.com/ghpvc/?username=yiadka)
+  <img src="https://komarev.com/ghpvc/?username=yiadka" />
 </div>
 
 - I'm a programmer.
